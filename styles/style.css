@@ -68,7 +68,6 @@
   list-style: none;
   justify-self: end;
   margin-right: 26px;
-  margin-top: -6px;
 }
 
 .cover {
@@ -155,7 +154,6 @@
 }
 
 .bet-button {
-  margin-top: -3px;
   width: 256px;
   height: 50px;
   color: #fff;
